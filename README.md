@@ -9,3 +9,8 @@
 ### Greek是指极客，通常被用于形容对计算机和网络技术有狂热兴趣并投入大量时间钻研的人。所以俗称发烧友或怪杰。
 ### 有点意思，下面这张gif可以形容我的心情：
 ！[](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+git add -A 添加
+git commit -m 提交
+git push origin master 第一次提交
+git push 第2-n次提交
+git pull 远程抓取仓库
